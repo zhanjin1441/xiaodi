@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 import net.xdclass.xdvideo.config.WeChatConfig;
 
 @RestController
-public class VideoController3 {
+public class VideoController4 {
 	@RequestMapping("next")
 	public String next(){
 		
